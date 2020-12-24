@@ -1,7 +1,7 @@
 # Project-US-Exchange-Research-Data-Warehouse-Design
 
 
-The aim of this project is to build a data warehouse and a system that:
+The aim of this project is to build a data warehouse and a data mart that:
 
 
 1. Automate daily API data-extraction in AWS for stock prices
